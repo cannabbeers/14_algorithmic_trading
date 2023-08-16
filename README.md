@@ -53,13 +53,12 @@ The AdaBoost classifier is integrated into the system for testing. Compare the p
 ## Evaluation Report
 
 ### Baseline Performance 
-[Actual Returns vs. Strategy](actual_vs_strategy_returns.png)
+SVM trading algorithm's strategy returns were effective until mid-2016. After that, there was a significant divergence between strategy and actual returns, particularly nearing 2021. The model's overall accuracy stood at 55%. Its precision for buy/sell predictions was 56% for buying and 43% for selling. The model excelled at predicting buy opportunities with a recall of 96% but struggled to predict sell opportunities, with a recall of just 4%.  This lack luster performance overall, indicates further improvements need to be made.
+
+### 
 
 ### New Machine Learning Classifier Performance - AdaBoost
-[Actual Strategy vs. AdaBoost](actual_vs_ada_strategy_returns.png)
 
-### New Machine Learning Classifier Performance - AdaBoost
-        ![Actual Returns vs. AdaBoost](actual_vs_ada_strategy_returns.png)
 
 ---
 
