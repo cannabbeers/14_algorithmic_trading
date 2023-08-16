@@ -53,10 +53,10 @@ The AdaBoost classifier is integrated into the system for testing. Compare the p
 ## Evaluation Report
 
 ### Baseline Performance 
-[Actual Returns vs. Strategy]('/actual_vs_strategy_returns.png')
+[Actual Returns vs. Strategy](/actual_vs_strategy_returns.png)
 
 ### New Machine Learning Classifier Performance - AdaBoost
-[Actual Strategy vs. AdaBoost]('/actual_vs_ada_strategy_returns.png')
+[Actual Strategy vs. AdaBoost](/actual_vs_ada_strategy_returns.png)
 
 
 
